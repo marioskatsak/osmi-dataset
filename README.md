@@ -1,7 +1,7 @@
 ROSMI Dataset
 =========================
 
-_Authors: Jekaterina Novikova, Ondrej Dusek and Verena Rieser_
+_Authors: Miltiadis Marios Katsakioris, Ioannis Konstas and Helen Hastie_
 
 Download Link
 -------------
