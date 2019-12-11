@@ -28,13 +28,11 @@ Contents
 
 ### Files ###
 
-* trainset.csv – the training set
-* devset.csv – the development set
-* testset.csv – the challenge test set (meaning representations only)
-* testset_w_refs.csv – evaluation test set with reference natural language 
-    utterances
+* trainset.json – the training set
+* devset.json – the development set
+* testset.json – the challenge test set
 
-### CSV Data Fields ###
+### JSON Data Fields ###
 
 - **mr** – textual meaning representation (MR)
 - **ref** – corresponding natural language utterance (human reference)
