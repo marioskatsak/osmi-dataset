@@ -28,17 +28,24 @@ Contents
 
 ### Files ###
 
-* trainset.json – the training set
-* devset.json – the development set
-* testset.json – the challenge test set
+* ROSMI.json – all 783 scenarios
+* scenario[0-6].json – 7 json files containing the static meta-data of each unique map.
+* images – folder containing all map images
 
-### JSON Data Fields ###
+### ROSMI.JSON Data Fields ###
 
-- **mr** – textual meaning representation (MR)
-- **ref** – corresponding natural language utterance (human reference)
-
-Note that several human references correspond to a single MR, i.e., multiple 
-lines contain the same MR.
+  "imgid" - ID of the corresponding image of the map,
+  "split" - train/val/test identification,
+  "image_filename" -  name of the corresponding image file,
+  "scenario_items" - name of the corresponding map file,
+  "landmarks"  - list of all mentioned landmarks and their corresponding annotations and meta-data,
+  "dynamo_obj" - list of all dynamic objects that make each scenario unique from each other,
+  "gold_coordinates" - Gold Standard Coordinate to be predicted,
+  "sentid" - id of sentence/scenario,
+  "sentence" - sentence of the corresponding scenario
+  "gold_pixels" - Gold Standard Pixels to be predicted
+  
+  
 
 Citing
 ------
