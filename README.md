@@ -34,7 +34,7 @@ Contents
 
 ### ROSMI.JSON Data Fields ###
 
-  "imgid" - ID of the corresponding image of the map,
+  **imgid" - ID of the corresponding image of the map,**
   "split" - train/val/test identification,
   "image_filename" -  name of the corresponding image file,
   "scenario_items" - name of the corresponding map file,
