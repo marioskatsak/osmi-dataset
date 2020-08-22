@@ -18,7 +18,7 @@ Our contributions are summarised as follows:
 2) the accompanying structured metadata that can be used to train instruction understanding models.
 
 
-Please refer to [our LREC2020 paper](https) for 
+Please refer to [our ICMI2020 paper](https) for 
 a detailed description of the dataset.
 
 Images are only necessary if vision algorithms are to be employed. Otherwise, the location and ID of all blocks are in the JSONs (<1Mb vs 167Mb for images)
