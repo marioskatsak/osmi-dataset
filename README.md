@@ -6,7 +6,7 @@ _Authors: Miltiadis Marios Katsakioris, Ioannis Konstas and Helen Hastie_
 Download Link
 -------------
 
-**[Download the full release of the ROSMI dataset here (ZIP)](https://drive.google.com/open?id=12dmeL1SIgpt-8RKeR4Rl_RhJ9yJAo73v)**
+**[Download the full release of the ROSMI dataset here (ZIP)](https://drive.google.com/file/d/1GCu1a_4twLcQRk4OSRse3nuCi1rvWzDf/view?usp=sharing)**
 
 Description
 -----------
