@@ -53,9 +53,18 @@ Citing
 If you use this dataset in your work, please cite the following paper:
 
 ```
-@inproceedings{
-
-
+@inbook{10.1145/3382507.3418861,
+author = {Katsakioris, Miltiadis Marios and Konstas, Ioannis and Mignotte, Pierre Yves and Hastie, Helen},
+title = {ROSMI: A Multimodal Corpus for Map-Based Instruction-Giving},
+year = {2020},
+isbn = {9781450375818},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3382507.3418861},
+abstract = {We present the publicly-available Robot Open Street Map Instructions (ROSMI) corpus: a rich multimodal dataset of map and natural language instruction pairs that was collected via crowdsourcing. The goal of this corpus is to aid in the advancement of state-of-the-art visual-dialogue tasks, including reference resolution and robot-instruction understanding. The domain described here concerns robots and autonomous systems being used for inspection and emergency response. The ROSMI corpus is unique in that it captures interaction grounded in map-based visual stimuli that is both human-readable but also contains rich metadata that is needed to plan and deploy robots and autonomous systems, thus facilitating human-robot teaming.},
+booktitle = {Proceedings of the 2020 International Conference on Multimodal Interaction},
+pages = {680–684},
+numpages = {5}
 }
 ```
 
